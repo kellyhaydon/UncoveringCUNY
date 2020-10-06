@@ -29,7 +29,7 @@ Funding for project was awarded by the _Digitizing Hidden Special Collections an
 
 ## <a name="plan">Project Plan</a>  
 
-<img src="/cuny_clir_plan_10.06.2020.png" width="200" height="400">
+<img src="/cuny_clir_plan_10.06.2020.png" width="100%" height="100%">
 
 ## <a name="month">Monthly Reports</a>
 <a href="https://github.com/kellyhaydon/kellyhaydon.github.io/blob/master/sept2020.md">September 2020</a>
