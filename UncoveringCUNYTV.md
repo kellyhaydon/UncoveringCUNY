@@ -43,19 +43,19 @@ The Gantt chart below visulizes the 18 month timeline.
 
 <img src="/cuny_clir_plan_10.06.2020.png" width="100%" height="100%">
 
-###Digitization
+### Digitization
 
 Under Construction
 
-###Captioning
+### Captioning
 
 Under Construction
 
-###Access
+### Access
 
 Under Construction
 
-###Outreach
+### Outreach
 
 Under Construction
 
