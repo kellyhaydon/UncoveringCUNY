@@ -18,6 +18,9 @@ Funding for project was awarded by the _Digitizing Hidden Special Collections an
 
 ## <a name="coll">Collections Uncovered</a>
 
+The City University of New York (CUNY) is the largest university network in the country with over two dozen schools in every one of New York City's five boroughs. The chart below lists the five the partnering schools and CUNY TV collections they manage. Each collection is comprised of a series that aired on CUNY TV between the 1980s and early 2000, but only available on an obsolete videotape (or audiotape) format. Collectively, the content tells the story of New York City as it grapples with public policy and social justice in a delicate era just before, and just after, 9/11. Clicking through each institution will reveal a one-page description of the collections in their care. 
+
+
 | Institution | CUNY TV Program  | Formats | # of Tapes 
 | ----------- | ----------- | ------- | ----------- 
 | Baruch College | Baruch College Specials | U-matic, Betacam SP, DVCam | 200 
@@ -29,9 +32,18 @@ Funding for project was awarded by the _Digitizing Hidden Special Collections an
 | College of Staten Island | Cinema Then, Cinema Now | U-matic, Betacam SP | 180 
 | Bronx Community College | Hall of Fame for Great Americans | VHS, 1/4" audio magnetic tape | 30 
 
+
 ## <a name="plan">Project Plan</a>  
 
+Timeline
+
 <img src="/cuny_clir_plan_10.06.2020.png" width="100%" height="100%">
+
+Digitization
+
+Captioning
+
+Access
 
 ## <a name="month">Monthly Reports</a>
 <a href="https://github.com/kellyhaydon/kellyhaydon.github.io/blob/master/sept2020.md">September 2020</a>
