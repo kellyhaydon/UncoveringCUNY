@@ -8,7 +8,7 @@
 
 :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
  
- <p>As of 10/6/2020: 8 tapes digitized; %0.5 complete!* </p>
+ <p>As of 10/6/2020: 8 tapes digitized; 0 captioned; 0 uploaded; %0.5 complete!* </p>
 
 ## <a name="about"> Project Overview </a>
 
@@ -48,7 +48,8 @@ The Gantt chart below visulizes the 18 month timeline. Collections will be compl
 Documentation on captioning, digitization, access, and outreach will be posted here as they are available.
 
 ## <a name="month">Monthly Reports</a>
-<a href="https://github.com/kellyhaydon/kellyhaydon.github.io/blob/master/sept2020.md">September 2020</a>
+
+under construction
 
 ## <a name="cred">Credits </a>
 
@@ -72,7 +73,7 @@ Ellen Belcher, Associate Professor and Special Collections Librarian, John Jay C
 ## <a name="app">Appendices</a></p>
 
 <a href="clir app 2019 2nd Round.pdf">CLIR 2020 Proposal</a><br>
-<a href="Rights, Ethics and Re-Use Statement September 2019.pdf">Rights, Ethics, and ReUse Statement</a>
+<a href="Rights, Ethics and Re-use Statement September 2019.pdf">Rights, Ethics, and ReUse Statement</a>
 
 <p>
  
