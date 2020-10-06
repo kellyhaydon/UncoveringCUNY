@@ -35,29 +35,17 @@ The City University of New York (CUNY) is the largest university network in the 
 
 ## <a name="plan">Project Plan</a>  
 
-Collections will be completed self-contained cycles, tasks that include cataloging, digitization, ingest, captioning, and upload. The length of time estimated is informed by the number of tapes in the collections. Outreach efforts will officially begin February 2021 after the first cycle is complete and will be engaged on a weekly basis via social media, press releases, newsletters, listvs, blog posts, and person-to-person contact. Documentation on on workflows and guidelines will posted here as they become available. 
+Documentation on on workflows and guidelines will posted here as they become available. 
 
-###Timeline
+### Timeline
 
-The Gantt chart below visulizes the 18 month timeline. 
+The Gantt chart below visulizes the 18 month timeline. Collections will be completed self-contained cycles, tasks that include cataloging, digitization, ingest, captioning, and upload. The length of time estimated is informed by the number of tapes in the collections. Outreach efforts will officially begin February 2021 after the first cycle is complete and will be engaged on a weekly basis via social media, press releases, newsletters, listvs, blog posts, and person-to-person contact. The timeline also indicates semesters where a student intern will assist the efforts. 
 
 <img src="/cuny_clir_plan_10.06.2020.png" width="100%" height="100%">
 
-### Digitization
+### Workflows and Guidelines
 
-Under Construction
-
-### Captioning
-
-Under Construction
-
-### Access
-
-Under Construction
-
-### Outreach
-
-Under Construction
+Documentation on captioning, digitization, access, and outreach will be posted here as they are available.
 
 ## <a name="month">Monthly Reports</a>
 <a href="https://github.com/kellyhaydon/kellyhaydon.github.io/blob/master/sept2020.md">September 2020</a>
